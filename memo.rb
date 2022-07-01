@@ -35,5 +35,5 @@ if memo_type == 1
     end
     
   else
-    puts "ERROR1か2を入力してくださいぎｔ"
+    puts "ERROR1か2を入力してください"
   end
